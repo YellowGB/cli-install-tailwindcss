@@ -10,3 +10,6 @@ npm install
 npm update
 
 npm link (very important or the command won't be recognized by the system)
+
+
+Aliases : install-tailwindcss || tailinst
