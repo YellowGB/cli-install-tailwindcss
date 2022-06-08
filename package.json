@@ -1,11 +1,12 @@
 {
     "name": "@yellowgb/install-tailwindcss",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "A CLI to set tailwindcss 3 automatically to a new Vite project",
     "main": "src/index.js",
     "bin": {
         "@yellowgb/install-tailwindcss": "bin/install-tailwindcss",
-        "install-tailwindcss": "bin/install-tailwindcss"
+        "install-tailwindcss": "bin/install-tailwindcss",
+        "tailinst": "bin/install-tailwindcss"
     },
     "publishConfig": {
         "access": "public"
